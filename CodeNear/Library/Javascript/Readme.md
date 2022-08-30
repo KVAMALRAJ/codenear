@@ -1,0 +1,1 @@
+Common library - @javascript
